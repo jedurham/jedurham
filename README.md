@@ -50,8 +50,7 @@ while(effort == true && consistency == true) {
 
 🧭 **Let’s Connect!**
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/joseph-durham)  
-📬 Email: jedurham.na@gmail.com
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/joseph-durham)
 
 ---
 
