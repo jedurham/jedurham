@@ -1,16 +1,58 @@
-## Hi there 👋
+### Hi there 👋, I'm Joe
+#### This area is under construction 🚧 (updated May 2025)
 
-<!--
-**jedurham/jedurham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS • 🧠 Problem Solver • 🇺🇸 USMC Veteran  
+💻 Passionate about building software that makes a real impact
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+``` JavaScript
+// As long as you don't give up
+while(effort == true && consistency == true) {
+  // You can still succeed in this life
+  opportunities = true;
+  // If you fail and never learn
+  if(failure == true && lesson != learned) {
+    // You will never advance
+    continue;
+    // If you fail but learn from your failure
+  } else if(failure == true && lesson == learned) {
+    // One of those opportunities may present iteself
+    return opportunities;
+  }
+}
+```
+
+---
+
+🚀 **Currently Working On**
+- 🌎 Personal Website
+- 🐍 Python Development
+- 📱 Mobile RPG in Flutter + Flame  
+- 🗺 Networking  
+- 💪 Personal & Professional Development
+
+---
+
+📈 **GitHub Stats**
+---
+
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedurham&show_icons=true&hide_rank=true&count_private=true&theme=tokyonight)
+
+---
+
+📊 **Top Languages**
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedurham&layout=compact&theme=tokyonight)
+
+---
+
+🧭 **Let’s Connect!**
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/joseph-durham)  
+📬 Email: jedurham.na@gmail.com
+
+---
+
+📝 “The best way to predict the future is to create it.” – Peter Drucker
