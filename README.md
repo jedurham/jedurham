@@ -50,7 +50,7 @@ while(effort == true && consistency == true) {
 
 🧭 **Let’s Connect!**
 ---
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/joseph-durham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/joseph-durham)
 
 ---
 
